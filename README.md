@@ -16,5 +16,5 @@ In our prototype app, we have addressed these issues by:
 In the near future, we plan on improving this app by:
 - Using live data transmission so both student and cadet know where each other are in real-time.
 - Creating a mobile-app for push-notifications.
-- Adding functionality to allow manual SMS communication in mobile-app (offline functionality).
+- Adding SMS communication in mobile-app (offline functionality).
 - Integrating this service with CAS, so students don't need to manually log in.
